@@ -19,11 +19,14 @@ I am a highly motivated and detail-oriented aspiring Data Scientist with strong 
 
 ## 🧰 Skills & Tools
 
-**Languages & Libraries:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Languages:**
+Python • SQL
 
+**Data Manipulation & Analysis:**
+Pandas • NumPy • Statsmodels
+
+**Machine Learning:**
+Scikit-learn • SciPy
 
 **Databases:**  
 SQL • MySQL 
@@ -32,7 +35,7 @@ SQL • MySQL
 Power BI • Excel • matplotlib • seaborn
 
 **Others:**  
-Git • GitHub • Jupyter Notebook • VS Code
+Git • GitHub • Jupyter Notebook • VS Code • Statics 
 
 ---
 
@@ -43,7 +46,7 @@ Git • GitHub • Jupyter Notebook • VS Code
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Currently Learning On
 
 - NLP-based **Sentiment Analysis** using product reviews  
 - Power BI dashboards for visual storytelling  
