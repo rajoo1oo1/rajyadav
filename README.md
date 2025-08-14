@@ -41,7 +41,7 @@ Git • GitHub • Jupyter Notebook • VS Code • Statics
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn]([https://github.com/rajoo1oo1](https://www.linkedin.com/in/raj-yadav-034957270/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raj-yadav-034957270/)
 - 📧 Email: coolrajyadav001@gmail.com
 
 ---
